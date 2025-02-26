@@ -1,2 +1,2 @@
 # EXP4
-github issyes
+github issues
